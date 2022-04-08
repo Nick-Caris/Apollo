@@ -29,5 +29,5 @@ jobs:
         if: github.ref == 'refs/heads/master'
         with:
           external_repository: Nick-Caris/Nick-caris.github.io
-          personal_token: ${{ secrets.GITHUB_TOKEN }}
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           publish_dir: ./public
