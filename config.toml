@@ -60,7 +60,7 @@ folderName = "Malleaton"
 files = [
     ["Goverment", "/post/goverment.md"],
     ["Colours", "https://golang.org/"],
-    ["History", "https://www.example.com/"],
+    ["History", "/post/history.md"],
     ["Geography", "/post/geography.md"],
     ["Manufactoria Capabilities", "/post/some-activity.md"],
 ]

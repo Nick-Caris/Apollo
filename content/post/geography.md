@@ -2,7 +2,7 @@
 title: Geography
 slug: "Geography"
 date: 2022-04-08T22:02:54+02:00
-draft: true
+draft: false
 ---
 
 Forge world Malleaton is located in the REDACTED system. This used to be a vibrant system with mining words, population centres and worlds wholly dedicated to research.
