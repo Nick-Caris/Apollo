@@ -6,7 +6,7 @@ draft: true
 
 ## Chapter one
 
-As the dropship approached the destination he noticed the faces of his fellow mechanical warriors he tried to look past they masks,
+As the drop-ship approached the destination he noticed the faces of his fellow mechanical warriors he tried to look past they masks,
 To try and see any thoughts lurking behind those lidless eyes. "T-5 minutes till destination" the speaker beyond.
 Incense was being lit and he among his comrades started muttering prayers to the machine god. 
 As he felt the prayer beads flowed through his hands he wondered if his comrades also remembered their first days,
@@ -26,5 +26,18 @@ Once every while a blip came up on his HUD but after further scanning the signal
 These asteroid fields were littered with radiation, but the deeper you go there are teh artifacts. The machines the priests are trying to get.
 To get closer to the machine god, to continue the endless pursuit of knowledge.
 
-In the distance a came in. A distress call of another squad. "Set retrieval imperative delta" said the alpha as he slung his rifle onto his shoulder. 
+In the distance a came in. A distress call of another squad. "Set retrieval imperative delta" said the alpha as he slung his rifle onto his shoulder.
+They hop two rocks further and the sensors pick up a xenos machine spirit, his vision zoom's in on the target. He sees the energie readings go up and a laser just misses his fellow Skitarius.
+The move in shooting their radium shots, the metal of the turrets dents and the signals get weaker. "It seems like the xenos machine spirit does not like the radiation".
+
+A few more shots and the lasers as well as the signal started to dissipate. The Skitarii slowed down and moved forwards. When arriving at the destroyed turret there was a cloak covered in blood laying next to it.
+It was one of the lost rangers from two days ago. He remembered seeing him in the mess hall, They had never talked, but he knew his assigned number.
+He crouches down next to the ranger and prays to the machine god. Skitarius alpha transfers the location of the ranger and turret to the tech priest.
+"Does he even care for the lost human live" he thought. "Did you ever meet him" he says to his fellow Skitarii, "He served the machine god, and fulfilled his purpose",
+"That is all that is important" they respond.
+
+He wondered if he would ens up like them, whenever he feels the machine spirit it feel alive and full of emotions. More emotions than his comrades.
+The rest of the patrol the walk in silence. After the flight back all the data got transferred from the troops to the tech priest.
+All visual data as wel as sensor readings. He just hopes the tech-priest won't listen to his conversation and can't read his thoughts about the fallen ranger.
+
 [ A old non necron xenos turred is there, battle, find signal, dead skitarri, has feeligns, have tiny convo]
