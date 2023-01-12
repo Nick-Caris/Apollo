@@ -46,15 +46,16 @@ When they are back at the rendezvous he sees the ship coming in, A great metalli
 After it landed they boarded the ship and connected up to the machine spirit of the lander, they closed their eyes suddenly they felt data enter and exit his mind, his nostrils being filled with the smell of incense.
 All data that was recorded during that patrol was send of to their tech priest. He wonders if the tech priest will hear the conversation, scared of thinking what might happen to him back at their ship.
 
-As the lander approaches the massive AdMech vessel, the Skitari can see the ship looming in the distance. The ship is a monolithic, imposing structure, its hull adorned with purple script and the symbol of the Machine God.
+As the lander approaches the massive Mechanicus vessel, the Skitarii can see the ship looming in the distance. The ship is a monolithic, imposing structure, its hull adorned with purple script and the symbol of the Machine God.
 The ship's engines hum with power as it slowly rotates, its guns ready to defend against any threat.
 
-The lander docks with the ship, and the Skitari disembark and walk through the ship's corridors. The ship's machine spirit is ever-present, a constant hum of data and power flowing through the ship.
-The Skitari can feel the machine spirit's presence in every aspect of the ship, from the lighting to the temperature.
+The lander docks with the ship, and the Skitarii disembark and walk through the ship's corridors. The ship's machine spirit is ever-present, a constant hum of data and power flowing through the ship.
+The Skitarii can feel the machine spirit's presence in every aspect of the ship, from the lighting to the temperature.
 
 Once they land they move out and march to the barracks. The halls are cold and full of steam, off in the distance you can hear the hammering of pistons and a faint chant from the temples.
 The alpha call's him over "Sk-123, I have scanned the conversation we had on training and concluded that your emotional way of thinking might hurt the missions.
-Go to the temple and talk to the priests, you must keep following the protocols from the machine god". He walks away to clean his armour. SK-123 purifies his armour and head to the temple.
+Go to the temple and talk to the priests, you must keep following the protocols from the machine god". He walks away to clean his armour. 
+SK-123 cleans and purifies his armour, then takes of his mask hangs it up next to his bunk and dawns his hood.
 
 [//]: # (After the flight back all the data got transferred from the troops to the tech priest.)
 [//]: # (All visual data as wel as sensor readings. He just hopes the tech-priest won't listen to his conversation and can't read his thoughts about the fallen ranger.)
