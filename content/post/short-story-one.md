@@ -8,16 +8,18 @@ draft: true
 
 As the drop-ship approached the destination he noticed the faces of his fellow mechanical warriors he tried to look past they masks,
 To try and see any thoughts lurking behind those lidless eyes. "T-5 minutes till destination" the speaker beyond.
-Incense was being lit and he among his comrades started muttering prayers to the machine god. 
+Incense was being lit and he among his comrades started muttering prayers to the machine god.
 As he felt the prayer beads flowed through his hands he wondered if his comrades also remembered their first days,
 Laying in a vat falling in and out of consciousness, wandering down a line, standing in front one of the priests and being led to their barracks.
 Fragments of hard labour and hardship until one day a priest took him away to the Skitarii mustering ground.
-Each mission he remembers less and less. "T-30 seconds till drop off. Set protector imperative".
+Each mission he remembers less and less."T-2 minutes" Chants come out of the speakers, it speaks of a Skitarii that walks the same route everyday on patrol.
+His protocols keep being followed religiously. One day the Skitarii sees an enemy coming in to steal data and kills him. This chant reminds them how important patrols are.
+"T-30 seconds till drop off. Set protector imperative".
 The doors flung open, and he ran out into the void among the rest of his squad.
 
 After the perimeter around the ship was set and the squad had embarked the ship quickly left. "No enemy signatures detected" he heard from within his mask.
 "transferred patrol route", his squad leader spoke. A rush of data entered his mind he saw a visual in front og his eyes,
-showing the asteroid they are currently on and the jumps they have to make to get to other smaller asteroids. 
+showing the asteroid they are currently on and the jumps they have to make to get to other smaller asteroids.
 As he zoomed out he could see the section of th astride field they had to patrol this day. The alpha took the lead heading to the edge of this asteroid while scanning for enemies.
 As he approached the edge he jumped with the help of a small backpack and feet boosters. He floated for a short while until landing on the next asteroid.
 
@@ -56,4 +58,3 @@ Go to the temple and talk to the priests, you must keep following the protocols 
 
 [//]: # (After the flight back all the data got transferred from the troops to the tech priest.)
 [//]: # (All visual data as wel as sensor readings. He just hopes the tech-priest won't listen to his conversation and can't read his thoughts about the fallen ranger.)
-
