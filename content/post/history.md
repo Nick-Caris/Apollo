@@ -4,7 +4,7 @@ slug: "History"
 draft: false
 ---
 
-This forge world was rediscover during the horus heresy. The first part of the Impirium that they came into contact with was the Raven Guard.
+This forge world was rediscovered during the horus heresy. The first part of the Impirium that they came into contact with was the Raven Guard.
 This was a part of the Raven Guard that was sent away from the rest of the legion, the forge world quickly accepted their place in the Impirium and tried to find contact with the rest of the mechanicum. Forge world Lucius was the first to send a Ark Mechanicus ship to establish a relationship and share the current technology.
 
 When the Ship arrived it was surprised organisation of the forge world. Instead of one giant factory planet there were multiple smaller colonies sending ships with parts and products back and forward.

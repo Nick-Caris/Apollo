@@ -4,11 +4,11 @@ description = "40K custom forge world"
 baseURL = "https://nick-caris.github.io/"
 
 [Params.Terminal]
-# Note: color schema
+# Note: color scheme
 # Note: You can choose between
-# Note: ["monokai", "powershell", "gruvbox_light", "gruvbox_dark", "solarized_light", "solarized_dark", "ubuntu", "retro"]
+# Note: ["monokai", "powershell", "gruvbox_light", "gruvbox_dark", "solarized_light", "solarized_dark", "ubuntu", "shell-retro"]
 # Note: If you want to use the Goph theme, set it to "goph" (See README.md)
-schema = "Retro"
+scheme = "shell-retro"
 
 # Note: in terminal
 # [userName]@[pcName]:~/$ cd [workDir]
@@ -59,7 +59,7 @@ folderName = "Malleaton"
 # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
 files = [
     ["Goverment", "/post/goverment.md"],
-    ["Colours", "https://golang.org/"],
+    ["Colours", "/post/colours.md"],
     ["History", "/post/history.md"],
     ["Geography", "/post/geography.md"],
     ["Manufactoria Capabilities", "/post/some-activity.md"],
