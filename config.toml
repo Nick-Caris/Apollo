@@ -59,7 +59,7 @@ folderName = "Malleaton"
 # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
 files = [
     ["Goverment", "/post/goverment.md"],
-    ["Colours", "https://golang.org/"],
+    ["Colours", "/post/colours.md"],
     ["History", "/post/history.md"],
     ["Geography", "/post/geography.md"],
     ["Manufactoria Capabilities", "/post/some-activity.md"],
