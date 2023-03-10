@@ -10,10 +10,10 @@ Here are some data fragments of the archive:
 
 | Piece       |                    Colour                     |
 |-------------|:---------------------------------------------:|
-| Cloak       |            Base Phoenician purple             |
+| cloak       |            Base Phoenician purple             |
 | Metal       |   Leadbelchers (or special runefang steel)    |
 | Wood        |                Mornfang brown                 | 
 | bronze      |                 weapon bronze                 |
 | Paper       | Morghast bone + corax white; agrax earthshade | 
 | energy      |           goblin green (game color)           | 
-| bleu energy |                 electric blue                 | 
+| blue energy |                 electric blue                 | 
