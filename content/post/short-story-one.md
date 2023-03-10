@@ -32,7 +32,10 @@ In the distance a came in. A distress call of another squad. "Set retrieval impe
 They hop two rocks further and the sensors pick up a xenos machine spirit, his vision zoom's in on the target. He sees the energie readings go up and a laser just misses his fellow Skitarius.
 The move in shooting their radium shots, the metal of the turrets dents and the signals get weaker. "It seems like the xenos machine spirit does not like the radiation".
 
-A few more shots and the lasers as well as the signal started to dissipate. The Skitarii slowed down and moved forwards. When arriving at the destroyed turret there was a cloak covered in blood laying next to it.
+A few more shots and the lasers as well as the signal started to dissipate. He could sense a binarric cycle going from the Alpha to the tech priest, informing them that they alien machine spirits woke up.
+"What would have made them wake up" he asked the Skitarii next to him."The xenos works in mysterious ways, do not seek to understand it. The  Night law says 'the xenos mechanism is a perversion of the True Path'"
+
+The Skitarii slowed down and moved forwards in silence. When arriving at the destroyed turret there was a cloak covered in blood laying next to it.
 It was one of the lost rangers from two days ago. He remembered seeing him in the mess hall, They had never talked, but he knew his assigned number.
 He crouches down next to the ranger and prays to the machine god. Skitarius alpha transfers the location of the ranger and turret to the tech priest.
 "Does he even care for the lost human live" he thought. "Did you ever meet him" he says to his fellow Skitarii, "He served the machine god, and fulfilled his purpose",
@@ -53,7 +56,7 @@ The lander docks with the ship, and the Skitarii disembark and walk through the 
 The Skitarii can feel the machine spirit's presence in every aspect of the ship, from the lighting to the temperature.
 
 Once they land they move out and march to the barracks. The halls are cold and full of steam, off in the distance you can hear the hammering of pistons and a faint chant from the temples.
-The alpha call's him over "Sk-123, I have scanned the conversation we had on training and concluded that your emotional way of thinking might hurt the missions.
+The alpha call's him over "Sk-123, I have scanned the conversation we had on patrol and concluded that your emotional way of thinking might hurt the missions.
 Go to the temple and talk to the priests, you must keep following the protocols from the machine god". He walks away to clean his armour. 
 SK-123 cleans and purifies his armour, then takes of his mask hangs it up next to his bunk and dawns his hood.
 
